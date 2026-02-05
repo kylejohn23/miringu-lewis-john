@@ -2,13 +2,7 @@ import java.io.IOException;
 
 public class LoginProgram {
 
-    /*
-     * This program simulates a simple login page in the console.
-     * The user must enter the correct username and password.
-     * While typing the password, stars (*) are displayed instead
-     * of the real characters for privacy.
-     * The user only gets 3 chances to login.
-     */
+    
 
     public static void main(String[] args) throws IOException {
 
